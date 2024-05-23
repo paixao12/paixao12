@@ -5,7 +5,7 @@ Meu nome é Marcelo Paludetto
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 - ### Você pode entrar em contato comigo :mailbo
   paixaonicole36@gmail.com
-  !{https://media.tenor.com/JhVlbsQoCboAAAAi/cute-dancing.gif}
+  ![](https://media.tenor.com/JhVlbsQoCboAAAAi/cute-dancing.gif)
   
 
 
